@@ -1,0 +1,19 @@
+[package]
+name = "d2d"
+version = "0.0.0"
+edition = "2021"
+authors = ["Connor Power <connor@connorpower.com>"]
+license = "MIT"
+repository = "https://github.com/connorpower/d2d/"
+description = "Low-level Direct2D wrapper for native hardware accelerated drawing on Microsoft platforms."
+keywords = [
+    "DirectX",
+    "Direct2D",
+    "GDI",
+    "2D",
+    "Win32",
+]
+categories = [
+    "rendering",
+    "graphics",
+]
